@@ -1,6 +1,6 @@
 # Packet-Sniffer
 
-Created a packet capturing application to recieve data such as number of packets, length of header, length of portion present, etc.
+Packet capturing application to recieve data such as number of packets, length of header, length of portion present, etc.
 
 Example compiler command-line for GCC:
 
